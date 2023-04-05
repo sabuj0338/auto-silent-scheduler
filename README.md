@@ -1,16 +1,13 @@
-# peace_time
+# Peace Time - Auto Silent Scheduler
 
-A new Flutter application.
+"Peace Time - Auto Silent Scheduler" APP.
+We are always busy and so busy that we forget to turn our phone silent, at very important times and ringtone rings at important times, leaving us in an embarrassing situation.
+
+Then we remember ( Silent ) and turn our phone silent before the important tasks and here we fall into another problem, we forget to bring the phone back to its previous normal state.
+
+Now we think ( Auto Silent Scheduler ) if there was an app that could schedule the phone to silent during important tasks and bring the phone back to its previous normal state after the task.
+
+Here comes our app in action, Our "Peace Time - Auto Silent Scheduler" app can help you to solve this problem.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
